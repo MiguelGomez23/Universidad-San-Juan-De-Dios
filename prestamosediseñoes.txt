@@ -1,0 +1,16 @@
+Cedula:  5558996
+Nombre:  rodrigo
+Apellido:  ospina
+Telefono:  123
+Modalidad de estudio:  Presencial
+Cantidad de asignaturas:  5
+Serial:  null
+---------------------------------------
+Cedula:  89777
+Nombre:  Juan
+Apellido:  Perdomo
+Telefono:  3512224788
+Modalidad de estudio:  Presencial
+Cantidad de asignaturas:  8
+Serial:  null
+---------------------------------------

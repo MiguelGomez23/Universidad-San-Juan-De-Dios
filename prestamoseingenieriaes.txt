@@ -1,0 +1,16 @@
+Cedula:  1025558996
+Nombre:  Sebastian
+Apellido:  Lopera
+Telefono:  3021458799
+Numero de semestre:  6
+Promedio:  3.8
+Serial:  58L12347
+---------------------------------------
+Cedula:  45889777
+Nombre:  Julian
+Apellido:  Perdomo
+Telefono:  3512224788
+Numero de semestre:  4
+Promedio:  3.2
+Serial:  47PP5698
+---------------------------------------
